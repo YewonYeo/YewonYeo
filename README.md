@@ -15,15 +15,15 @@
   
 &nbsp;  
 
-  <!--기술 스택-->
+  <!--기술 스택
 <h3><b>👉🏻 Tech Stack ⚒</b></h3>
 <p><b>Techs that I've used at least once.</b></h4></p>
   
-   <!--언어-->
+ 언어 뱃지
 <p margin-top: 30px><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></p> 
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></p> -->
 
 &nbsp;  
 <!-- 깃허브 상태 -->
