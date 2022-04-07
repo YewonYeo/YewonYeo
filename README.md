@@ -32,8 +32,8 @@
 <br>
 
 <!--상태-->  
-![Yewon's github stats](https://github-readme-stats.vercel.app/api?username=yewon717&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yewon717&layout=compact&theme=dracula)](https://github.com/yewon717/github-readme-stats)
+![Yewon's github stats](https://github-readme-stats.vercel.app/api?username=YewonYeo&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YewonYeo&layout=compact&theme=dracula)](https://github.com/yewon717/github-readme-stats)
 
   
  </div>
