@@ -9,13 +9,6 @@
 <p style="margin=top: 10px;"><a href="https://blog.naver.com/tbwmwjstk" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
  <a href="https://yeeeh.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-9999FF?style=flat&logoColor=white"/></a></p>
 
- <!--백준 티어--> 
- 
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeeeh)](https://solved.ac/profile/yeeeh)
-  
-&nbsp;  
-
 <!--기술스택-->
 <h3><b>👉🏻 Tech Stack ⚒</b></h3>
 <p><b>Techs that I've used at least once.</b></h4></p>
