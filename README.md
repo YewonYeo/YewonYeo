@@ -13,7 +13,9 @@
  &nbsp;
  <a href="https://yeeeh.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-9999FF?style=flat&logoColor=white"/></a>
   &nbsp;
- <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yeeeh">
+ 
+ <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yeeeh"/>
+ 
  </p>
  </div>
 
