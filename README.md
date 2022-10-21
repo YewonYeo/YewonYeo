@@ -1,6 +1,6 @@
 <div align="center">
 <div>
-<img title_color="000000" align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YewonYeo&layout=compact&title_color=c95975"/> 
+<img title_color="000000" align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YewonYeo&layout=compact&title_color=c95975"/> 
 <!-- 소개 -->
 <h4>🌷 YewonYeo 🤓</h3>
 <h5>사용자를 처음 만나는 곳,</h4>
