@@ -4,7 +4,7 @@
 <!-- 소개 -->
 <h4>🌷 YewonYeo 🤓</h3>
 <h5>사용자를 처음 만나는 곳,</h4>
-<h4>프론트엔드 개발자를 꿈꾸는 여예원입니다 😋</h4>
+<h5>프론트엔드 개발자를 꿈꾸는 여예원입니다 😋</h4>
 <hr/>
 <!-- 뱃지 
 <a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/[2. 등록하려는 이름]-[3. #을 뺀 나머지 색깔코드]?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a> -->  
