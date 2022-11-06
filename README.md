@@ -12,6 +12,7 @@
 <p>
  <a href="https://blog.naver.com/tbwmwjstk" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
  &nbsp;
+ 
  <a href="https://yeeeh.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-9999FF?style=flat&logoColor=white"/></a>
   &nbsp;
  
