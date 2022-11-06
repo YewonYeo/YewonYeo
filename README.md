@@ -10,12 +10,10 @@
 <!-- 뱃지 
 <a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/[2. 등록하려는 이름]-[3. #을 뺀 나머지 색깔코드]?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a> -->  
 <p>
- <a href="https://blog.naver.com/tbwmwjstk" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
+ <a href="https://blog.naver.com/tbwmwjstk" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/>
  &nbsp;
- 
- <a href="https://yeeeh.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-9999FF?style=flat&logoColor=white"/></a>
+ <a href="https://yeeeh.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-9999FF?style=flat&logoColor=white"/>
   &nbsp;
- 
  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yeeeh"/>
  
  </p>
