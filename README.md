@@ -14,6 +14,8 @@
  &nbsp;
  <a href="https://yeeeh.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-9999FF?style=flat&logoColor=white"/>
   &nbsp;
+  <a href="https://yeeeh.notion.site/Yewon-Yeo-18ad04ce495b437bad9dfa0ee07778bf" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF98A8?style=flat&logoColor=white"/>
+     &nbsp;
  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yeeeh"/>
  
  </p>
