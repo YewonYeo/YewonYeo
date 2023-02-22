@@ -12,10 +12,12 @@
 <p>
  <a href="https://blog.naver.com/tbwmwjstk" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white"/>
  &nbsp;
- <a href="https://yeeeh.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-9999FF?style=flat&logoColor=white"/>
-  &nbsp;
-  <a href="https://yeeeh.notion.site/Yewon-Yeo-18ad04ce495b437bad9dfa0ee07778bf" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF98A8?style=flat&logoColor=white"/>
+ <a href="https://yeeeh.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
      &nbsp;
+   <a href="https://great-glade-b7b.notion.site/25ad04585a004da6a5776add05e23109](https://yeeeh.notion.site/98c2573ed380480a8f6a537b95d8de52" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"/>
+   &nbsp;
+      <a href="https://yeeeh.notion.site/Yewon-Yeo-18ad04ce495b437bad9dfa0ee07778bf" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF98A8?style=flat&logo=Iconify&logoColor=white"/>
+       &nbsp;
  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yeeeh"/>
  
  </p>
